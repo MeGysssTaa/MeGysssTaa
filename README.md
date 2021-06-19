@@ -1,4 +1,4 @@
-### 👋 Hi
+## 👋 Hi
 
 My name is German *(that's my first name, not the Deutsch language!)*. I love writing software that powers something that people use. 
 
@@ -13,7 +13,7 @@ My name is German *(that's my first name, not the Deutsch language!)*. I love wr
 
 
 
-### 📝 My most interesting projects
+## 📝 My most interesting projects
 
 At the moment, I treat these projects as my most interesting:
 * [**Reflex**](https://g.reflex.rip/spigot) — a premium (paid) Minecraft server-side anticheat with extra focus on combat mods (KillAura, Aimbot, and so on).
