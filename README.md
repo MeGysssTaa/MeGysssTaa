@@ -6,9 +6,9 @@ My name is German *(that's my first name, not the Deutsch language!)*. I love wr
 
 ❤️ Instead, I prefer creating the magic behind these graphics, that is, the backends, the algorithms — the *real programs* in my understanding.
 
-ℹ️ I mainly **write** `Java`. At the moment, I'm also learning `Rust`, and it seems that I really love this language! I also have some minor experience writing `C++` and `Python`.
+ℹ️ I mainly **write** `Java`. At the moment, I'm also studying `Rust`, and it seems that I'm really getting to *love* this language! I also have some minor experience writing `C++` and `Python`.
 
-💬 I **speak** `English` (higher-intermediate) and `Russian` (native). Planning to learn German soon™️.
+💬 I **speak** `English` (upper-intermediate) and `Russian` (native). Planning to learn German soon™️.
 
 
 
