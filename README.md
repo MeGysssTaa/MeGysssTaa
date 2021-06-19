@@ -8,7 +8,7 @@ My name is German *(that's my first name, not the Deutsch language!)*. I love wr
 
 ℹ️ I mainly **write** `Java`. At the moment, I'm also studying `Rust`, and it seems that I'm really getting to *love* this language! I also have some minor experience writing `C++` and `Python`.
 
-💬 I **speak** `English` (upper-intermediate) and `Russian` (native). Can speak very simple `Japanese` (been learning it for a while, but had forgotten most stuff by now — although I can easily re-learn them anytime). Planning to learn German soon™️.
+💬 I **speak** `English` (upper-intermediate) and `Russian` (native). Can speak very simple `Japanese` (been learning it for a while, but had forgotten most stuff by now — although I can easily re-learn it anytime). Planning to learn German soon™️.
 
 
 
