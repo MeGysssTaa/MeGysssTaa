@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 Hi
 
-<!--
-**MeGysssTaa/MeGysssTaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is German *(that's my first name, not the Deutsch language!)*. I love writing software that powers something that people use. 
 
-Here are some ideas to get you started:
+😞 I *hate* working on anything related to graphics, be that some GUI or a game client. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ Instead, I prefer creating the magic behind these graphics, that is, the backends, the algorithms — the *real programs* in my understanding.
+
+ℹ️ I mainly **write** `Java`. At the moment, I'm also learning `Rust`, and it seems that I really love this language! I also have some minor experience writing `C++` and `Python`.
+
+💬 I **speak** `English` (higher-intermediate) and `Russian` (native). Planning to learn German soon™️.
+
+
+
+
+### 📝 My most interesting projects
+
+At the moment, I treat these projects as my most interesting:
+* [**Reflex**](https://g.reflex.rip/spigot) — a premium (paid) Minecraft server-side anticheat with extra focus on combat mods (KillAura, Aimbot, and so on).
+* [**Keiko**](https://github.com/MeGysssTaa/keiko-plugin-inspector) — an open-source Minecraft server plugins inspector and security tool that makes it much more safe for server administrators to install plugins from untrusted sources.
+* [**LVQ4J**](https://github.com/MeGysssTaa/lvq4j) — a lightweight and easy-to-use implementation of the Learning Vector Quantization neural network in Java (a library).
+* [**Access Warden**](https://github.com/MeGysssTaa/access-warden) — a powerful Java access restrictions enforcement toolkit that helps people with some secrets write more secure programs.
+* [**As We Drown**](https://github.com/AsWeDrown) — a multiplayer adventure quest-based game written quickly for my university exam (pretty raw, but working).
