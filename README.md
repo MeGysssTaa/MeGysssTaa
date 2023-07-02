@@ -30,7 +30,7 @@
 
 - [**Access Warden**](https://github.com/MeGysssTaa/access-warden) — ASM-based JVM bytecode transformer to enforce existing and add new Java access restrictions at run-time.
 
-- [**Zelix Retracer**](https://github.com/MeGysssTaa/zelix-retracer) — an unofficial stacktrace translation tool and change-log parser library for the Zelix KlassMaster Java bytecode obfuscator.
+- [**Zelix Retracer**](https://github.com/MeGysssTaa/zelix-retracer) — unofficial stacktrace translation tool and change-log parser for Zelix KlassMaster Java bytecode obfuscator.
 
 
 
