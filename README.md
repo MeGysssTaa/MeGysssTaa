@@ -6,13 +6,13 @@
 ### My name is German. I have a passion for working with game-, backend-, and AI- related software.
 
 
-💀 I **hate** working on anything related to graphics, be that some GUI or a game client renderer.
+- 💀 I **hate** working on anything related to graphics, be that some GUI or a game client renderer.
 
-❤️ I **love** creating the magic behind these graphics — the backends and what bridges them and the end user.
+- ❤️ I **love** creating the magic behind these graphics — the backends and what bridges them and the end user.
 
-💻 I mainly **write** `Kotlin` and `Java`. I also have some minor experience writing `C++`, `Rust`, `Python`, and a few other languages.
+- 💻 I mainly **write** `Kotlin` and `Java`. I also have some minor experience writing `C++`, `Rust`, `Python`, and a few other languages.
 
-🌎 I **speak** `English` and `Russian` well. Can comprehend the most basic `Japanese`.
+- 🌎 I **speak** `English` and `Russian` well. Can comprehend the most basic `Japanese`.
 
 
 
@@ -22,15 +22,15 @@
 
 ## 📝 My most interesting or useful projects
 
-* [**Reflex Anticheat**](https://github.com/MeGysssTaa/reflex-anticheat-internals) — formely premium and somewhat popular, advanced anticheat for Minecraft servers.
+- [**Reflex Anticheat**](https://github.com/MeGysssTaa/reflex-anticheat-internals) — formely premium and somewhat popular, advanced anticheat for Minecraft servers.
 
-* [**Keiko Plugin Inspector**](https://github.com/MeGysssTaa/keiko-plugin-inspector) — "antivirus" for Minecraft servers, with static (signature) and run-time (heuristic) checks.
+- [**Keiko Plugin Inspector**](https://github.com/MeGysssTaa/keiko-plugin-inspector) — "antivirus" for Minecraft servers, with static (signature) and run-time (heuristic) checks.
   
-* [**As We Drown**](https://github.com/AsWeDrown) — prototype of a multiplayer adventure quest-based game, based on SFML (C++), custom "game engine".
+- [**As We Drown**](https://github.com/AsWeDrown) — prototype of a multiplayer adventure quest-based game, based on SFML (C++), custom "game engine".
 
-* [**Access Warden**](https://github.com/MeGysssTaa/access-warden) — ASM-based JVM bytecode transformer to enforce existing and add new Java access restrictions at run-time.
+- [**Access Warden**](https://github.com/MeGysssTaa/access-warden) — ASM-based JVM bytecode transformer to enforce existing and add new Java access restrictions at run-time.
 
-* [**Zelix Retracer**](https://github.com/MeGysssTaa/zelix-retracer) — an unofficial stacktrace translation tool and change-log parser library for the Zelix KlassMaster Java bytecode obfuscator.
+- [**Zelix Retracer**](https://github.com/MeGysssTaa/zelix-retracer) — an unofficial stacktrace translation tool and change-log parser library for the Zelix KlassMaster Java bytecode obfuscator.
 
 
 
