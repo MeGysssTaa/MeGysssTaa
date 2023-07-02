@@ -5,6 +5,8 @@
 
 ### My name is German. I have a passion for working with game-, backend-, and AI- related software.
 
+###### I'm also known as `DarksideCode` or `DarksideSkid`.
+
 
 - 💀 I **hate** working on anything related to graphics, be that some GUI or a game client renderer.
 
