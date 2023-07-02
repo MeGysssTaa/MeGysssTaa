@@ -10,7 +10,7 @@
 
 - ❤️ I **love** creating the magic behind these graphics — the backends and what bridges them and the end user.
 
-- 💻 I mainly **write** `Kotlin` and `Java`. I also have some minor experience writing `C++`, `Rust`, `Python`, and a few other languages.
+- 💻 I mainly **write** `Kotlin` and `Java`. Got some other experience (in descending order): `Rust`, `Python`, `C++`, some other.
 
 - 🌎 I **speak** `English` and `Russian` well. Can comprehend the most basic `Japanese`.
 
